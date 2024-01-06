@@ -1,11 +1,11 @@
-# data-analysis-using-SQL
-Fashion Market Analysis Using MySQL
+Fashion Market Analysis Using MySQL 
 
-# Terdapat 3 tabel pada database situs Fashion, yaitu:
+Terdapat 3 tabel pada database situs Fashion, yaitu:
 items (id, name, gender, price, cost)
 sales_records (id, user_id, item_id, purchased_at)
 users (id, name, gender, age)
-# Pada tabel-tabel tersebut terdapat:
+
+Pada tabel-tabel tersebut terdapat:
 30 item terdaftar
 910 sales record pada Juli 2018
 325 user terdaftar
